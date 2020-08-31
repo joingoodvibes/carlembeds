@@ -1,0 +1,21 @@
+{
+  "fields": [
+    {
+      "name": "__**USER INFORMATION**__",
+      "value": "Account Creation Date: {user(created_at)}\nJoined Server Date: {user(joined_at)}\nUser ID: {user(id)}",
+      "inline": false
+    }
+  ],
+  "title": "{mention} has just left the server",
+  "thumbnail": {
+    "url": "{user(avatar)}"
+  },
+  "image": {
+    "url": "https://media1.tenor.com/images/5fdae67034e3b441d6cfe627f982702a/tenor.gif?itemid=8910472"
+  },
+  "color": 15700479,
+  "footer": {
+    "icon_url": "https://i.imgur.com/F3oXJ1P.png",
+    "text": "ID: `{user(id)}` | Such a sad day to see someone leave"
+  }
+}
