@@ -1,0 +1,38 @@
+{
+  "fields": [
+    {
+      "name": "__**How to Get your Shack**__",
+      "value": "Type `.found`",
+      "inline": false
+    },
+    {
+      "name": "__**How to make $$$**__",
+      "value": "The following commands will earn you money!\nType the command: `.work`\nType the command: `.tips`\n\n__**Check Your Cooldowns**__\nType the command: `.c`",
+      "inline": false
+    },
+    {
+      "name": "__**Way's to upgrade your taco shack**__",
+      "value": "The following commands will show the upgrades for your shack\nType the command: `.ads`\nType the command: `.upgrades`\nType the command: `.decorations`\nType the command: `.hire`",
+      "inline": false
+    },
+    {
+      "name": "__**How to get Passive Income**__",
+      "value": "The following will allow you to earn money every hour\nType the command: `.shop`",
+      "inline": false
+    },
+    {
+      "name": "__**Join our franchise**__",
+      "value": "Type the command `!franchise`",
+      "inline": false
+    }
+  ],
+  "title": "Getting Started With Taco-Shack",
+  "thumbnail": {
+    "url": "https://i.imgur.com/HDyeKKO.png "
+  },
+  "author": {
+    "name": "Tacoshack Help",
+    "icon_url": "https://i.imgur.com/HDyeKKO.png "
+  },
+  "color": 16776721
+}
