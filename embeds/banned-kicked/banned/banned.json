@@ -1,0 +1,21 @@
+{
+  "fields": [
+    {
+      "name": "__**USER INFORMATION**__",
+      "value": "Account Creation Date: {user(created_at)}\nJoined Server Date: {user(joined_at)}\nUser ID: {user(id)}\nUser Name:{user(proper)}",
+      "inline": false
+    }
+  ],
+  "title": "{mention} has just been banned",
+  "thumbnail": {
+    "url": "{user(avatar)}"
+  },
+  "image": {
+    "url": "https://i.imgur.com/0UkgTh6.gif"
+  },
+  "color": 15700479,
+  "footer": {
+    "icon_url": "https://i.imgur.com/F3oXJ1P.png",
+    "text": "ID: `{user(id)}` | The {ord:{server(members)}} to join"
+  }
+}
