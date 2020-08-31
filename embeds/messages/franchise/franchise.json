@@ -1,0 +1,26 @@
+{
+  "fields": [
+    {
+      "name": "__**How to join**__",
+      "value": "Please `@` <@161848479381979136> for an invite\nOnly `@` <@451129456418095134> if no response\n\n",
+      "inline": false
+    },
+    {
+      "name": "__**NO JOIN REQUIREMENTS**__",
+      "value": "**The franchise needs money to get upgrades**\n◈ Make sure to donate money to the franchise\n◈This allows us to benefit the member's",
+      "inline": false
+    }
+  ],
+  "title": "Curley Good Vibes Franchise",
+  "description": "This franchise was made to rep **Curley Good Vibes** on TacoShack!\n",
+  "thumbnail": {
+    "url": "https://i.imgur.com/HDyeKKO.png "
+  },
+  "author": {
+    "name": "[CGV] Curleys Good Vibes"
+  },
+  "color": 5198940,
+  "footer": {
+    "text": "Curley Good Vibes - [CGV]"
+  }
+}
