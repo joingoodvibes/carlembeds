@@ -1,0 +1,15 @@
+{
+  "title": "Welcome, {mention} to Curley Good Vibes",
+  "description": "ꜰᴜɴ ꜱᴇʀᴠᴇʀ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴡɪᴛʜ ᴀ ᴀᴄᴛɪᴠᴇ ᴄʜɪʟʟ ᴄᴏᴍᴍᴜɴɪᴛʏ ꜰᴏʀ ᴀʟʟ ʏᴏᴜʀ ɴᴇᴇᴅꜱ! . \n\nᴡᴇ ᴏꜰꜰᴇʀ ᴀ ᴀʀʀᴀʏ ᴏꜰ ꜰᴇᴀᴛᴜʀᴇꜱ ɪɴᴄʟᴜᴅɪɴɢ:\n- ꜱᴍᴍᴏ ᴇᴠᴇɴᴛꜱ \n- ꜱᴍᴍᴏ ɢᴜɪʟᴅ \n- ɢɪᴠᴇᴀᴡᴀʏꜱ  \n- ᴄᴀꜱɪɴᴏ \n- ꜱᴇʀᴠᴇʀ ᴇᴠᴇɴᴛꜱ \n- ꜰᴜɴ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ \n ᴍᴜᴄʜ ᴍᴏʀᴇ ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ ᴛᴏᴏ! \n\nPlease Check <#704016679704854650> to get Verified",
+  "thumbnail": {
+    "url": "{user(avatar)}"
+  },
+  "image": {
+    "url": "https://i.imgur.com/gzEMd2t.gif"
+  },
+  "color": 15700479,
+  "footer": {
+    "icon_url": "https://i.imgur.com/F3oXJ1P.png",
+    "text": "ID: `{user(id)}` | The {ord:{server(members)}} to join"
+  }
+}
